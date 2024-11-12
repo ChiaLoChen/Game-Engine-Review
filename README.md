@@ -20,3 +20,5 @@ Chia Lo Chen - 40%
 David Chuong - 20%
 
 Alex Snedden - 40%
+
+Alex Sneddens challenges with making the design patterns. The main issue I had is that I have not worked on unity in a while as my group has moved to unreal. So I had a lot of trouble trying to remember a lot of the basic commands and relearning the work flow when it comes to unity games and their coding. I also had a little bit of trouble deciding exactly what two design patterns to do for this project so it took a lttile while to noarrow down which two I felt fit the game the best.
