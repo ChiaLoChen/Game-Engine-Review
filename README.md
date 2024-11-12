@@ -1,5 +1,7 @@
-Chia Lo Chen 100829478
-David Chuong 100860614
+Chia Lo Chen 100829478 
+
+David Chuong 100860614 
+
 Alex Snedden 100823185
 
 The two design patterns we will be implementing are Command and Observer.
@@ -11,7 +13,10 @@ The DLL/Plugin will allow the player to fly by changing their gravity. Using the
 
 Link to UML Diagram: https://app.diagrams.net/#G1hIUBDJC-Qf-p1Am2eGYp0Ukn1WJ5ku9X#%7B"pageId"%3A"C5RBs43oDa-KdzZeNtuy"%7D
 
-Percentage of contributions
-Chia Lo Chen - 40%
+Percentage of contributions:
+
+Chia Lo Chen - 40% 
+
 David Chuong - 20%
+
 Alex Snedden - 40%
